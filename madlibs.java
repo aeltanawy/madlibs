@@ -1,4 +1,6 @@
 //Tutorial from Blondiebytes for Hackerrank 30-day coding challenge
+//link: https://www.hackerrank.com/challenges/30-review-loop/tutorial
+
 package madlibs;
 
 import java.util.Scanner;
